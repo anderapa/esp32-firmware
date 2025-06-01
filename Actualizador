@@ -1,0 +1,4 @@
+esp32-firmware/
+├── firmware/
+│   └── latest.bin
+├── update.flag      ← Contenido: ON o OFF
